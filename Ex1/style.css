@@ -1,0 +1,38 @@
+.boder{
+    background-color: pink;
+    border-top: solid 20px purple;
+    border-bottom:solid 20px purple;
+    border-radius: 20px;
+    margin: 20px;
+    
+    
+}
+#green{
+    background-color: green;
+    padding: 60px 0px 40px 0px;
+    text-align: center;
+    color: white;
+    border:5px dashed yellow;
+    margin: 30px;
+    
+}
+#red{
+    background-color: red;
+    padding: 20px 0px 80px 0px;
+    text-align: center;
+    color: white;
+    border-right: 20px solid orange;
+    width: 400px;
+    margin: 30px;
+}
+#blue{
+    background-color: blue;
+    color: white;
+    width: 50%;
+    margin-top: 50px;
+    border: dotted 10px black;
+    text-align: center;
+    margin: 30px;
+    margin-top: 50px;
+}
+
